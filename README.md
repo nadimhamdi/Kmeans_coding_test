@@ -11,14 +11,14 @@ Although you can write this in any language, we would recommend for you to use p
 
 ## Solution
 
-1. The solution implemented works for 2-dimensional clusters we can change the dimensions .
+1. The solution implemented works for 2-dimensional.
 2. It implements a class Kmeans, that only has the `fit`, `fit_predict` and `predict` methods that the sklearn class considers
 3. The file `test_kmeans.py` tests that
 4. It tooks **One HOUR** to finish the code
 
 ## Scripts
 
-It requires python 3.6 or above and pandas and plotnine.
+It requires python 3.6 or above, pandas and plotnine.
 
 `N_CLUSTER`(-c) `N_POINTS`(-p) `N_DIMENS`(-d) .
 
@@ -40,7 +40,7 @@ The requirements are given in the requirements.txt
     python plot_result.py -c 6 -p 1000 -d 2
 ```
 
-This will output a png image called `Clustred_Data.png` `Centroid's_coordinates.png`
+This will output a png images called `Clustred_Data.png` and `Centroid's_coordinates.png`
 
 
 
