@@ -13,8 +13,8 @@ Although you can write this in any language, we would recommend for you to use p
 
 1. The solution implemented works for 2-dimensional clusters we can change the dimensions .
 2. It implements a class Kmeans, that only has the `fit`, `fit_predict` and `predict` methods that the sklearn class considers
-3. The file `test.py` tests that
-4. After one hour, I had some issues with using ggplot (plotnine) to output a plot, I think it is based on column names succintness, but since the hour has passed I gave up.
+3. The file `test_kmeans.py` tests that
+4. It tooks **One HOUR** to finish the code
 
 ## Scripts
 
